@@ -1,2 +1,2 @@
-first connect to github@
+first time to github@
 a modify file waiting for merge 
